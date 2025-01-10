@@ -16,4 +16,14 @@ body{
     color: white;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    grid-area: footer;
+}
+
+.grid-container{
+    display:grid;
+    grid-template-areas: 
+    "header header header"
+    "nav main main"
+    "footer footer footer";
+    grid-template-rows: 1fr 5fr 1fr;
 }
