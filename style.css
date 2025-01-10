@@ -10,10 +10,11 @@ body {
   text-align: center;
 }
 
-#h1 {
+.h1 {
   font-size: 64px;
 }
 
-#p {
+.p {
   font-size: 32px;
+  font-family: arial;
 }
