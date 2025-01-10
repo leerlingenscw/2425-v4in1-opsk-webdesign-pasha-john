@@ -18,3 +18,11 @@ body {
   font-size: 32px;
   font-family: arial;
 }
+
+.grid-container{
+  display:grid;
+  grid-template-areas: 
+  "header header header"
+  "nav main main"
+  "footer footer footer";
+}
