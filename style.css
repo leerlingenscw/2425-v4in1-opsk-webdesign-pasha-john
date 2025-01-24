@@ -26,4 +26,35 @@ header {
   margin-left: auto;
   margin-right: auto;
   margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#par1 {
+  margin: 2%;
+  width: 20%;
+}
+
+#par2 {
+  margin: 2%;
+  width: 20%;
+}
+
+#par3 {
+  margin: 2%;
+  width: 20%;
+}
+
+#par4 {
+  margin: 2%;
+  width: 20%;
+}
+
+footer {
+  color:  white;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #001b40ff;
+  width: 100%;
+  text-align: center;
+  padding: 10px 5px;
+  margin-top: 50px;
 }
