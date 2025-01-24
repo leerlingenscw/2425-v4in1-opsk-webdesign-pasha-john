@@ -538,3 +538,5 @@ Hit CTRL-C to stop the server
 [Fri Jan 24 2025 15:09:19 GMT+0000 (Coordinated Universal Time)]  "GET /par1link.avif" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 [Fri Jan 24 2025 15:09:19 GMT+0000 (Coordinated Universal Time)]  "GET /Cybersecurity.png" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 [Fri Jan 24 2025 15:09:19 GMT+0000 (Coordinated Universal Time)]  "GET /par2link.jpg" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+[Fri Jan 24 2025 15:10:23 GMT+0000 (Coordinated Universal Time)]  "GET /Paragraaf_1/par1.html" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+[Fri Jan 24 2025 15:10:23 GMT+0000 (Coordinated Universal Time)]  "GET /Paragraaf_1/par1.css" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
